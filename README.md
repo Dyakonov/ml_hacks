@@ -10,3 +10,4 @@
 ### для лекций "Введение в маштнное обучение" https://github.com/Dyakonov/IML
 * [Кластеризация и k-means](dj_IML_cluster_kmeans.ipynb)
 * [kNN](dj_IML_kNN.ipynb)
+* [Библиотека Pandas](dj_pandas_tutorial_05.ipynb)
