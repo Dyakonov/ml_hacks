@@ -7,7 +7,10 @@
 * [иллюстрация методов поиска аномалий](dj_oneclass_press.ipynb)
 
 
-### для лекций "Введение в маштнное обучение" https://github.com/Dyakonov/IML
+### для лекций "Введение в машинное обучение" https://github.com/Dyakonov/IML
 * [Кластеризация и k-means](dj_IML_cluster_kmeans.ipynb)
 * [kNN](dj_IML_kNN.ipynb)
 * [Библиотека Pandas](dj_pandas_tutorial_05.ipynb)
+
+### для лекций "Машинное обучение и анализ данных" https://github.com/Dyakonov/MLDM
+* [Пример использования ядер](dj_MLDM_kernels.ipynb)
