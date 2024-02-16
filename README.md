@@ -18,3 +18,6 @@
 ### к заметкам блога
 * [Scikit-Learn: тонкие вопросы о реализации методов машинного обучения](blog_01.ipynb) к этой [заметке](https://dyakonov.org/2021/03/03/ml-scikit-learn)
 * [Эксперименты с дисбалансом классов](book_disbalance_public_v1.ipynb)
+
+### DL + Pytorch
+* [К первой лекции по табличным данным](dj_XOR_20230215.ipynb)
